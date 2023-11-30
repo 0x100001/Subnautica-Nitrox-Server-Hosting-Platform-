@@ -1,0 +1,10 @@
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\bin\Debug\Subnautica Server - Client.exe.config
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\bin\Debug\Subnautica Server - Client.exe
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\bin\Debug\Subnautica Server - Client.pdb
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica Server - Client.csprojAssemblyReference.cache
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica_Server___Client.Main_Form.resources
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica_Server___Client.Properties.Resources.resources
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica Server - Client.csproj.GenerateResource.cache
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica Server - Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica Server - Client.exe
+C:\Users\User\Cloud\Projekte\Subnautica Server - Client\Subnautica Server - Client\obj\Debug\Subnautica Server - Client.pdb
